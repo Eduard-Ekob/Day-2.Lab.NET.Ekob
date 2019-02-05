@@ -2,4 +2,8 @@ Begin
 Develop_1
 Feature_1_1
 Release 1.0
+<<<<<<< HEAD
 Feature_2_1
+=======
+Hotfix 1.0.1
+>>>>>>> hotfix-1.0.1
